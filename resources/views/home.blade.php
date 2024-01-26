@@ -13,7 +13,12 @@
                             {{ session('status') }}
                         </div>
                     @endif
-
+                    <i class="fas fa-clock" style="color: red;"></i>
+                    <i class="fas fa-clock" style="color: blue;"></i>
+                    <i class="fas fa-clock" style="color: green;"></i>
+                    <i class="fas fa-clock" style="color: pink;"></i>
+                    <i class="fas fa-clock" style="color: #000;"></i>
+                    
                     {{ __('You are logged in!') }}
                 </div>
             </div>
