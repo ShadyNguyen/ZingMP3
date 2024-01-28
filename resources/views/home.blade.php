@@ -13,6 +13,8 @@
                             {{ session('status') }}
                         </div>
                     @endif
+                    <h1 class="text-semibold text-yellow-200">đây là gì </h1>
+                    <img src="https://cdn.tgdd.vn/hoi-dap/1353229/cach-dang-ky-tai-khoan-vip-zing-mp3-de-tai-nghe-nhac-chat%20(21-2)-800x600.jpg" alt="" class="h-10 w-10 bg:white">
                     <i class="fas fa-user"></i>
                     <i class="fas fa-clock" style="color: red;"></i>
                     <i class="fas fa-clock" style="color: blue;"></i>
