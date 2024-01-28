@@ -13,6 +13,7 @@
                             {{ session('status') }}
                         </div>
                     @endif
+                    <i class="fas fa-user"></i>
                     <i class="fas fa-clock" style="color: red;"></i>
                     <i class="fas fa-clock" style="color: blue;"></i>
                     <i class="fas fa-clock" style="color: green;"></i>
